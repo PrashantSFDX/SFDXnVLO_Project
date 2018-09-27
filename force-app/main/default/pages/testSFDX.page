@@ -1,6 +1,6 @@
 <apex:page >
   <!-- Begin Default Content REMOVE THIS -->
-  <h1>Congratulations SFDX</h1>
+  <h1>Congratulations SFDX VS code</h1>
   This is your new Page
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
