@@ -53,6 +53,15 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
+    <label>Sector</label>
+    <nameField>
+        <label>Sector Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Sectors</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
     <fields>
         <fullName>Sector_Id__c</fullName>
         <caseSensitive>false</caseSensitive>
@@ -64,18 +73,9 @@
         <type>Text</type>
         <unique>true</unique>
     </fields>
-    <label>Sector</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
-    <nameField>
-        <label>Sector Name</label>
-        <type>Text</type>
-    </nameField>
-    <pluralLabel>Sectors</pluralLabel>
-    <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
-    <visibility>Public</visibility>
 </CustomObject>

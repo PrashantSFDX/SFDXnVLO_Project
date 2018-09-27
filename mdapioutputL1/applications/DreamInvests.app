@@ -6,16 +6,16 @@
         <logoVersion>1</logoVersion>
     </brand>
     <formFactors>Large</formFactors>
-    <label>DreamInvest</label>
+    <label>DreamInvests</label>
     <navType>Standard</navType>
-    <tab>standard-home</tab>
-    <tab>Fund_Explorer</tab>
-    <tab>Fund__c</tab>
-    <tab>Sector__c</tab>
-    <tab>standard-Account</tab>
-    <tab>standard-Contact</tab>
-    <tab>standard-report</tab>
-    <tab>standard-Dashboard</tab>
+    <tabs>standard-home</tabs>
+    <tabs>Fund_Explorer</tabs>
+    <tabs>Fund__c</tabs>
+    <tabs>Sector__c</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>DreamCapital_UtilityBar</utilityBar>
 </CustomApplication>

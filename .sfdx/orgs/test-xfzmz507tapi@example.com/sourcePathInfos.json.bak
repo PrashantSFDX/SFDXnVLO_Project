@@ -32,14 +32,14 @@
     [
         "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1534992516675,
+            "modifiedTime": 1535418240516,
             "changeTime": 1534992516675,
-            "contentHash": "c52432dd21bb8d0d01121be608ee2f042d1d93d2"
+            "contentHash": "c52432dd21bb8d0d01121be608ee2f042d1d93d2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -62,13 +62,12 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1534989842564,
-            "changeTime": 1534470499583,
-            "contentHash": "6a642e92108de6fab84f9ae8634b70e4a6300248",
+            "modifiedTime": 1535516967536,
+            "changeTime": 1535419457979,
+            "contentHash": "e41ebd9ea9a81fbbeda1c902adc8aaca9f942dbf",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -89,10 +88,10 @@
         {
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\SFDXnVLOVF.page",
             "isDirectory": false,
-            "size": 164,
-            "modifiedTime": 1534728092579,
-            "changeTime": 1534728092579,
-            "contentHash": "1da39a8217ae203343495260ac27f79112281306",
+            "size": 173,
+            "modifiedTime": 1535423325006,
+            "changeTime": 1535423325006,
+            "contentHash": "239692e1d258c3c794f895e31073681de2fd21d4",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -103,9 +102,9 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\settings\\Forecasting.settings-meta.xml",
             "isDirectory": false,
             "size": 191264,
-            "modifiedTime": 1534728092860,
-            "changeTime": 1534728092860,
-            "contentHash": "3758ebbbc33afedfdab710ccb77a56e5f41e85b7",
+            "modifiedTime": 1535418215978,
+            "changeTime": 1535418215978,
+            "contentHash": "8bb2d22f150b1596e808072de1e368beb0314825",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -113,14 +112,14 @@
     [
         "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages",
         {
+            "state": "u",
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1534728092579,
-            "changeTime": 1534728092579,
-            "contentHash": "c145f447293588f1fab844d2d14c0bdac7944265",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1535519685657,
+            "changeTime": 1535519685657,
+            "contentHash": "d610c17b721679a06a48e388bae4c161a5c9d556"
         }
     ],
     [
@@ -142,9 +141,9 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\applications",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1534989694664,
-            "changeTime": 1534989694664,
-            "contentHash": "0ec5dce61d3fce6ea266a2838ea795cceea17a6c",
+            "modifiedTime": 1534994278229,
+            "changeTime": 1534994278229,
+            "contentHash": "fb6319151de3e7acc4c8e2eafe09db358f220ba6",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -311,7 +310,7 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1534989694833,
+            "modifiedTime": 1534994053423,
             "changeTime": 1534989694833,
             "contentHash": "17abba6c6d183368fedc757de92ecadc73ee50a9",
             "isMetadataFile": false,
@@ -324,7 +323,7 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\staticresources\\nouislider",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1534989694843,
+            "modifiedTime": 1534994053427,
             "changeTime": 1534989694843,
             "contentHash": "7e292ee7949f3c472517b823e789dc4ddb0f5dd5",
             "isMetadataFile": false,
@@ -896,7 +895,7 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\staticresources\\nouislider\\nouislider.css",
             "isDirectory": false,
             "size": 4734,
-            "modifiedTime": 1534989694839,
+            "modifiedTime": 1534994053425,
             "changeTime": 1534989694839,
             "contentHash": "de7913bf38d38a325316a7aeb7a6ba6c9ef8dfa6",
             "isMetadataFile": false,
@@ -909,7 +908,7 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\staticresources\\nouislider\\nouislider.js",
             "isDirectory": false,
             "size": 60429,
-            "modifiedTime": 1534989694841,
+            "modifiedTime": 1534994053426,
             "changeTime": 1534989694841,
             "contentHash": "ba07e9662f866d2c50ec21f52c6dc5d127ce82f4",
             "isMetadataFile": false,
@@ -922,7 +921,7 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\staticresources\\nouislider\\nouislider.min.css",
             "isDirectory": false,
             "size": 3498,
-            "modifiedTime": 1534989694842,
+            "modifiedTime": 1534994053427,
             "changeTime": 1534989694842,
             "contentHash": "e62a169c2a2ce6fcbe4465a98742bbbca41018e5",
             "isMetadataFile": false,
@@ -935,7 +934,7 @@
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\staticresources\\nouislider\\nouislider.min.js",
             "isDirectory": false,
             "size": 20408,
-            "modifiedTime": 1534989694844,
+            "modifiedTime": 1534994053428,
             "changeTime": 1534989694844,
             "contentHash": "c93790515eb0f1d3e2b7cef05ebf4f5111cd9821",
             "isMetadataFile": false,
@@ -1738,27 +1737,92 @@
     [
         "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
             "isDirectory": false,
+            "size": 349,
+            "modifiedTime": 1534994906257,
+            "changeTime": 1534994906257,
+            "contentHash": "9195664187231a858665470ab288d78bb8e5085f",
             "isMetadataFile": true,
-            "size": 208,
-            "modifiedTime": 1534992516677,
-            "changeTime": 1534992516677,
-            "contentHash": "ea7799b8c51d5b645f7defea0947ec87f640278b"
+            "state": "u"
         }
     ],
     [
         "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534992516677,
             "changeTime": 1534992516677,
-            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+            "contentHash": "60680eef6555307b3497314153664b6229838daf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\applications\\DreamInvests.app-meta.xml",
+        {
+            "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\applications\\DreamInvests.app-meta.xml",
+            "isDirectory": false,
+            "size": 703,
+            "modifiedTime": 1534994290852,
+            "changeTime": 1534994290852,
+            "contentHash": "53b4d9895fe8d4da33806c734ac88cf37f979a47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\tst.page-meta.xml",
+        {
+            "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\tst.page-meta.xml",
+            "isDirectory": false,
+            "size": 279,
+            "modifiedTime": 1535516286212,
+            "changeTime": 1535516286212,
+            "contentHash": "e6e7f456d6952d3cbd0a83db450d2b3ae83590b8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\tst.page",
+        {
+            "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\tst.page",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1535516322021,
+            "changeTime": 1535516322021,
+            "contentHash": "b8215663a6e529c036174372480705f5378c6dd9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\sfdxDemo.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\sfdxDemo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1535519685648,
+            "changeTime": 1535519685648,
+            "contentHash": "7ae09798ec4a56ddace50d5d5c5acc0f508b4b6c"
+        }
+    ],
+    [
+        "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\sfdxDemo.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\salesforce DX apps\\SFDXnVLOProject\\force-app\\main\\default\\pages\\sfdxDemo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 173,
+            "modifiedTime": 1535519685658,
+            "changeTime": 1535519685658,
+            "contentHash": "239692e1d258c3c794f895e31073681de2fd21d4"
         }
     ]
 ]

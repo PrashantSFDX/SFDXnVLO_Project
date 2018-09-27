@@ -53,6 +53,15 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ControlledByParent</externalSharingModel>
+    <label>Fund</label>
+    <nameField>
+        <label>Fund Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Funds</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+    <visibility>Public</visibility>
     <fields>
         <fullName>Abbreviation__c</fullName>
         <externalId>false</externalId>
@@ -139,18 +148,9 @@
         <trackTrending>false</trackTrending>
         <type>Percent</type>
     </fields>
-    <label>Fund</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
-    <nameField>
-        <label>Fund Name</label>
-        <type>Text</type>
-    </nameField>
-    <pluralLabel>Funds</pluralLabel>
-    <searchLayouts/>
-    <sharingModel>ControlledByParent</sharingModel>
-    <visibility>Public</visibility>
 </CustomObject>
