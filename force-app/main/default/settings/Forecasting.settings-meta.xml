@@ -220,10 +220,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -234,122 +230,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -383,39 +263,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -564,10 +414,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -578,122 +424,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -727,39 +457,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -912,10 +612,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -926,122 +622,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1076,39 +656,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1257,10 +807,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -1271,122 +817,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1420,39 +850,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1605,10 +1005,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -1619,122 +1015,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1769,39 +1049,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1950,10 +1200,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -1964,122 +1210,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2113,39 +1243,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2294,10 +1394,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -2308,122 +1404,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2457,39 +1437,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2638,10 +1588,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -2652,122 +1598,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2801,39 +1631,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2986,10 +1786,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -3000,122 +1796,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -3150,39 +1830,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -3331,10 +1981,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -3345,122 +1991,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -3494,39 +2024,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -3675,10 +2175,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -3689,122 +2185,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -3838,39 +2218,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -4019,10 +2369,6 @@
             <label>Fiscal Period</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>OPPORTUNITY.RECORDTYPE</field>
-            <label>Opportunity Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <label>Last Activity</label>
         </opportunityListFieldsLabelMappings>
@@ -4033,122 +2379,6 @@
         <opportunityListFieldsLabelMappings>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm4</field>
-            <label>Account Record Type</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm5</field>
-            <label>Account SLA</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm6</field>
-            <label>Default Currency Payment Mode</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9n</field>
-            <label>Effective One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm8</field>
-            <label>Effective Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9o</field>
-            <label>Effective Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm7</field>
-            <label>Effective Total: One Time Loyalty</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPm9</field>
-            <label>Email</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmA</field>
-            <label>Fax</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmB</field>
-            <label>Follow Up To</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmC</field>
-            <label>Frame Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmE</field>
-            <label>Number Of Contracted Months</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmF</field>
-            <label>One Time Loyalty Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9p</field>
-            <label>One Time Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmG</field>
-            <label>Opportunity Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmH</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmI</field>
-            <label>Originating Channel</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmJ</field>
-            <label>Originating Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmL</field>
-            <label>Phone</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmM</field>
-            <label>Price List</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JQ9q</field>
-            <label>Recurring Total</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmK</field>
-            <label>Referral Source</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmD</field>
-            <label>Require Contract</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmN</field>
-            <label>Shipping Postal Code</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmO</field>
-            <label>Shipping State</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmP</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmQ</field>
-            <label>Validation Date</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmR</field>
-            <label>Validation Message</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00NN0000003JPmS</field>
-            <label>Validation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -4182,39 +2412,9 @@
             <field>OPPORTUNITY.FISCAL_YEAR</field>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <field>OPPORTUNITY.RECORDTYPE</field>
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00NN0000003JPm4</field>
-            <field>00NN0000003JPm5</field>
-            <field>00NN0000003JPm6</field>
-            <field>00NN0000003JQ9n</field>
-            <field>00NN0000003JPm8</field>
-            <field>00NN0000003JQ9o</field>
-            <field>00NN0000003JPm7</field>
-            <field>00NN0000003JPm9</field>
-            <field>00NN0000003JPmA</field>
-            <field>00NN0000003JPmB</field>
-            <field>00NN0000003JPmC</field>
-            <field>00NN0000003JPmE</field>
-            <field>00NN0000003JPmF</field>
-            <field>00NN0000003JQ9p</field>
-            <field>00NN0000003JPmG</field>
-            <field>00NN0000003JPmH</field>
-            <field>00NN0000003JPmI</field>
-            <field>00NN0000003JPmJ</field>
-            <field>00NN0000003JPmL</field>
-            <field>00NN0000003JPmM</field>
-            <field>00NN0000003JQ9q</field>
-            <field>00NN0000003JPmK</field>
-            <field>00NN0000003JPmD</field>
-            <field>00NN0000003JPmN</field>
-            <field>00NN0000003JPmO</field>
-            <field>00NN0000003JPmP</field>
-            <field>00NN0000003JPmQ</field>
-            <field>00NN0000003JPmR</field>
-            <field>00NN0000003JPmS</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
